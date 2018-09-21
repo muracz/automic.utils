@@ -30,7 +30,7 @@ If the configuration is not availabe you will be prompted for all the data on ru
 	"department":"AUTOMIC",
 	"language":"E"
 	}
-
+```
 ## Example usage
 
 ```
