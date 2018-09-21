@@ -40,7 +40,7 @@ import automic.utils.ConnectionManager;
 // [...]
 cfg.getCredentialsFromFile(filename);
 			
-			for(Integer client : cfg.ClientArray) {
+        for(Integer client : cfg.ClientArray) {
 			
                 System.out.println("Attempting to connect to: " + cfg.Hostname);
                 
